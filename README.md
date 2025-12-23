@@ -1,5 +1,7 @@
 <img width="962" height="770" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/bd50ef03-bea8-4233-9012-4f7ac918d787" />
 
+Link Aidrop : https://t.me/HVchannelss/178
+
 Hướng Dẫn 
 
 Bước 1 : Thêm Proxy vào file proxy.txt
